@@ -1,0 +1,17 @@
+.logo-wrapper{
+    height: 200px;
+    border: 1px solid black;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+img{
+    max-height: 100px;
+    max-width: 100%;
+}
